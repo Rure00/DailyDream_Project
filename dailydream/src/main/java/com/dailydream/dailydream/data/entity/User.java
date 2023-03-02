@@ -12,5 +12,4 @@ public class User extends BaseEntity {
 
     @Column(nullable = false, updatable = true)
     private String loginPw;
-
 }
